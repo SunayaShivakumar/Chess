@@ -5,11 +5,11 @@
 
 Animation to show Fool's Mate in the Chess GUI.
 
-![][standardChess =480x480]
+![](https://github.com/SunayaShivakumar/Chess/blob/master/screencaps/standard.png =480x480)
 
 Standard Chess board.
 
-![][customChess =480x480]
+![](https://github.com/SunayaShivakumar/Chess/blob/master/screencaps/custom.png =480x480)
 
 Custom Chess board with two custom pieces:
 * Amazon: combined powers of Queen and Knight.
@@ -22,6 +22,4 @@ Unimplemented Chess game rules:
 
 IDE used: IntelliJ IDEA
 
-[standardChess]: https://github.com/SunayaShivakumar/Chess/blob/master/screencaps/standard.png
-[customChess]: https://github.com/SunayaShivakumar/Chess/blob/master/screencaps/custom.png
 [foolsmateChess]: https://github.com/SunayaShivakumar/Chess/blob/master/screencaps/foolsmate.gif
