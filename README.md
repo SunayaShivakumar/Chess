@@ -5,11 +5,11 @@
 
 Animation to show Fool's Mate in the Chess GUI.
 
-![][standardChess]
+![][standardChess =480x480]
 
 Standard Chess board.
 
-![][customChess]
+![][customChess =480x480]
 
 Custom Chess board with two custom pieces:
 * Amazon: combined powers of Queen and Knight.
