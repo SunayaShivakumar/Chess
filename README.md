@@ -5,10 +5,6 @@ Animation to show Fool's Mate in the Chess GUI:
 
 ![][foolsmateChess]
 
-Standard Chess board:
-
-<img src="https://github.com/SunayaShivakumar/Chess/blob/master/screencaps/standard.png" width="480" height="480">
-
 Custom Chess board with two custom pieces:
 * Amazon: combined powers of Queen and Knight.
 * Coyote: Amazon that switches color after each move.
